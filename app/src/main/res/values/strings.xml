@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NemDoeu</string>
+    <string name="Relembrar">Relembrar senha</string>
+    <string name="Cadastrar">Novo Cadastro</string>
+    <string name="Informacao">Como Funciona o aplicativo?</string>
+</resources>
